@@ -35,7 +35,7 @@
     class="filter"
     type="text"
     bind:value={filter}
-    placeholder="Find resource with regex..."
+    placeholder="Find resource..."
   />
 
   <label><input type="checkbox" bind:value={useRegexp} /> Use regexp</label>
