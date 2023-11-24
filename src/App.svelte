@@ -27,7 +27,7 @@
   </pre>
 
   <label>
-    <h2>Step 2: upload your graph:</h2>
+    <h2>Step 2: submit your graph:</h2>
     <input type="file" placeholder="graph.dot" bind:files />
     <p><em>The file is processed in your browser only - never uploaded.</em></p>
   </label>
